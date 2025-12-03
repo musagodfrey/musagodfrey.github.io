@@ -17,3 +17,12 @@ This is the source code for my personal profile website. The site showcases my w
 
 ## 🗂️ Project Structure
 
+personal-profile/
+│
+├─ index.html # Main HTML file
+├─ styles.css # Main CSS file
+├─ script.js # JavaScript for gallery/lightbox
+├─ img/ # Folder for profile and gallery images
+├─ favicon/ # Optional favicon files
+└─ README.md # This file
+
